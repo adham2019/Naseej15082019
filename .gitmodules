@@ -1,0 +1,4 @@
+[submodule "adham2019/naseej_addons_jj"]
+	path = adham2019/naseej_addons_jj
+	url = git@github.com:adham2019/naseej_addons_jj.git
+	branch = master
